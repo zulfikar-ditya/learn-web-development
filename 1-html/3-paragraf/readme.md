@@ -28,7 +28,7 @@
 
 ## pre-format tag
 
-> digunakan untuk mendisplay preformatted teg, misal kode, array dan lain lain
+> digunakan untuk mendisplay preformatted teg, misal kode, array dan lain-lain
 
 ```
 <pre>

@@ -4,7 +4,7 @@
 <h1>Heading 1</h1>
 ```
 
-> tag heading akan mengeluarkan text besar dengan tebal, ini biasanya digunakan untuk titile pada suatu halaman
+> tag heading akan mengeluarkan text besar dengan tebal, ini biasanya digunakan untuk title pada suatu halaman
 
 ## tugas
 
@@ -12,7 +12,7 @@
 
 ```
 <h1>Heading 1</h1>
-<h2>Heading 1</h2>
+<h2>Heading 2</h2>
 ```
 
 - dan temukanlah perbedaanya
